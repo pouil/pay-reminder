@@ -1,0 +1,23 @@
+{
+  "orders": [
+    {
+      "id": "a1b2c3d4e5f60708",
+      "token": "0123456789abcdef",
+      "buyer": "示例买家",
+      "item": "手冲咖啡礼盒",
+      "depositAmount": "150",
+      "depositDate": "2026-11-12",
+      "createdAt": "2026-11-12T08:00:00.000Z",
+      "reminders": [
+        {
+          "id": "1122334455667788",
+          "title": "尾款",
+          "amount": "350",
+          "due": "2026-11-20",
+          "remindDays": 2,
+          "note": "到货后 3 天内补齐"
+        }
+      ]
+    }
+  ]
+}

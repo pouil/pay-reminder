@@ -1,0 +1,14 @@
+# 本地/线上运行时数据（含真实买家信息），不要提交
+data.json
+data.json.bak
+dbg.json
+requests.log
+server.log
+order.json
+token.txt
+
+# 依赖与系统文件
+node_modules/
+.DS_Store
+Thumbs.db
+*.log

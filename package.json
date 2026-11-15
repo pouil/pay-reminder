@@ -1,0 +1,10 @@
+{
+  "name": "pay-reminder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal order payment-reminder tool: merchant QR -> buyer calendar subscription (ICS)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
